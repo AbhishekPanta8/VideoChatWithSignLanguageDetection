@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://img.freepik.com/free-vector/vector-illustration-concept-ecological-clean-planet-against-pollution-environmental_1284-48023.jpg?w=1060&t=st=1680866292~exp=1680866892~hmac=807a3f7b16decebce9415bf08886a5d9ee487fe81ef203b6f6a35614ed446b07);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
